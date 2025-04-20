@@ -60,8 +60,8 @@ spec:
 
 Dans docker :
 
-- shell form : For example, ENTRYPOINT node app.js (lanà§ée dans un shell)   
-- exec form : For example, ENTRYPOINT ["node", "app.js"] (non lanà§ée dans un shell)
+- shell form : For example, ENTRYPOINT node app.js (lançée dans un shell)   
+- exec form : For example, ENTRYPOINT ["node", "app.js"] (non lançée dans un shell)
 
 => toujours favoriser l'exec form
 
